@@ -1,0 +1,13 @@
+-Gráficos:
+  - Valor do Aluguel (média)
+  - Qtd. de Quartos (Totais)
+  - Aceita Pets (sim/Não)
+  - Área  (Faixa)
+
+
+-Filtros:
+  - Valor Aluguel
+  - Qtde. Quartos   
+  - Aceita Pets ?
+  - Mobiliado ? 
+  - Faixa de Área

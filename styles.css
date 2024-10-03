@@ -1,0 +1,22 @@
+/* Alterar a cor de fundo da sidebar */
+.stSidebar > stSidebar  {
+    background-color: #d3d3d380; 
+}
+
+.subheader-custom {
+    font-size: 30px;
+    color: gray;
+    text-align: center;
+}
+
+.dataframe th {
+    font-size: 28px !important;
+    color: #007BFF !important;
+    font-family: Arial, sans-serif !important;
+}
+.dataframe td {
+    font-size: 26px !important;
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+
+
